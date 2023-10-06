@@ -36,7 +36,7 @@
 
 </p>
 
-### <picture> <img src = "https://media.giphy.com/media/min28ijNNEE0ZqcOno/giphy.gif" width = 70px>  </picture> Technologies, Languages and Tools
+## <picture> <img src = "https://media.giphy.com/media/min28ijNNEE0ZqcOno/giphy.gif" width = 70px>  </picture> Technologies, Languages and Tools
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
